@@ -1,19 +1,22 @@
-✈️ Flight Ticket Booking System 
-
+✈️ Travel Booking System (Frontend Preview)
 
 📝 Project Overview
 
-This project is a Flight Ticket Booking System. Currently, the frontend (HTML/CSS/JS) is complete, allowing users to:
+This is a Travel Booking System with a primary focus on flight bookings, allowing users to:
 
-Select departure & arrival cities
+Search and book flights from airports
 
-Pick flight date and time
+Optionally book trains, buses, and hotels for complete travel planning
 
-Fill passenger details
+Select dates, destinations, and number of passengers/guests
 
-See a booking summary
+Fill in personal details and view a booking summary
 
 Next steps: Integrate a backend database to store bookings and make the system fully functional.
 
 Live Frontend Preview:
 https://asmitha-github.github.io/Flight-Ticket-Booking/
+
+Screenshot:
+
+<img width="1894" height="918" alt="Image" src="https://github.com/user-attachments/assets/40f95c6a-1ffb-4985-b7d5-f002ccc47a21" />
