@@ -14,3 +14,6 @@ Fill passenger details
 See a booking summary
 
 Next steps: Integrate a backend database to store bookings and make the system fully functional.
+
+Live Frontend Preview:
+https://asmitha-github.github.io/Flight-Ticket-Booking/
